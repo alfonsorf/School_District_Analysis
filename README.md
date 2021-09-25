@@ -1,2 +1,2 @@
-# School_District_Analysis
-Created for school district analysis using Conda and Jupyter Notebook
+# PyCitySchools with Pandas
+For this challenge, I was responsible for creating a school district analysis using Jupyter Notebook and Pandas to prepare standardized test data for analysis, reporting, and presentation to provide insights about performance patterns. Using Python, I first cleaned data with altered results and then I created multiple dataframes showing the district and school summaries, the top and bottom performing schools, and the scores based on their spending and sizes.
